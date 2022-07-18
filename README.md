@@ -35,6 +35,7 @@
 
 In short, the Keture logos represent only Keture (Pvt) Ltd and should not be used to represent your products. You may also [read the official legal terms](https://keture.com/terms-and-conditions#:~:text=Keture%C2%AE%2C%20the%20Keture%C2%AE%20logo,of%20Keture%2C%20(Pvt)%20Ltd.) if you’re into that.
 
+ACKNOWLEDGEMENT: This document is entirely inspired by the GitHub logos and usage.
 <div align="center">
 
 ## Show your support by giving ⭐️
